@@ -17,7 +17,7 @@ This repository contains clean, modular implementations of RAG techniques. Each 
 ---
 
 ## RAG Pipeline Stages
-![RAG Pipeline Stages](images/rag.png)
+![RAG Pipeline Stages](images/rag.PNG)
 
 
 | Stage | What it Does | Techniques |
