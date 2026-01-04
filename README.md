@@ -94,9 +94,9 @@ Stage_Name/
 Each stage has its own detailed README:
 
 - [Query Construction](./Query_Construction/README.md)
-- [Query Transformation](./Query_Transformation/README.md)
+- [Query Transformation](Query Transformation/README.md)
 - [Routing](./Routing/README.md)
-- [Indexing](./Indexing/README.md)
+- [Indexing](Indexing/README.md)
 - [Retrieval](./Retrieval/README.md)
 - [Post-Retrieval](./Post_Retrieval/README.md)
 - [Generation](./Generation/README.md)
